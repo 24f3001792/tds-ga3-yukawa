@@ -1,0 +1,9 @@
+{
+  "url": "https://raw.githubusercontent.com/24f3001792/tds-ga3-yukawa/dbd2742/yukawa.glb",
+  "status": 200,
+  "cors": "*",
+  "content_type": "application/octet-stream",
+  "bytes": 1874520,
+  "magic": "glTF",
+  "sha256": "af9117493c7f21c7608b5aae7210473785069b4bffa55406b4813330aa48e052"
+}
