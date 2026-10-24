@@ -1,0 +1,11 @@
+{
+  "bytes": 1874520,
+  "limit": 2000000,
+  "under_limit": true,
+  "sha256": "af9117493c7f21c7608b5aae7210473785069b4bffa55406b4813330aa48e052",
+  "vertices": 35583,
+  "triangles": 43196,
+  "extensions_used": [],
+  "embedded_textures": 1,
+  "external_resources": []
+}
